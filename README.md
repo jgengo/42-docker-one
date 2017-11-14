@@ -8,7 +8,7 @@ You can get the subject in the root folder.
 
 ## Guideline
 
-- [ ] Part 1 - How To Docker
+- [x] Part 1 - How To Docker
 - [ ] Part 2 - Dockerfiles
 - [ ] Part 3 - Bonus
 
