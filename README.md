@@ -10,5 +10,3 @@ You can get the subject in the root folder.
 
 - [x] Part 1 - How To Docker
 - [x] Part 2 - Dockerfiles
-
-## Work in Progress
